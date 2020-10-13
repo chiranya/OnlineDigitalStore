@@ -37,19 +37,19 @@ button, button:focus {
 
 /* Color Template  */
 .color-primary {
-  color: #003859;
+  color: #283747;
 }
 
 .color-primary-bg {
-  background: #003859;
+  background: #283747;
 }
 
-.color-second {
-  color: #00A5C4;
+ .color-second {
+  color: #1F618D;
 }
 
 .color-second-bg {
-  background: #00A5C4;
+  background: #1F618D;
 }
 
 .color-yellow {
