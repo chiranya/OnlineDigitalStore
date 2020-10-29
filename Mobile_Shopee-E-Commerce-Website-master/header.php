@@ -28,17 +28,17 @@
 
 <!-- start #header -->
 <header id="header">
-    <div class="strip d-flex justify-content-between px-4 py-1 bg-light">
-        <p class="font-rale font-size-12 text-black-50 m-0">Jordan Calderon 430-985 Eleifend St. Duluth Washington 92611 (427) 930-5255</p>
+    <div class="strip d-flex justify-content-between px-4 py-1 bg-dark">
         <div class="font-rale font-size-14">
-            <a href="#" class="px-3 border-right border-left text-dark">Login</a>
-            <a href="#" class="px-3 border-right text-dark">Whishlist (0)</a>
+            <a href="#" class="px-3 border-right border-left text-light">Login</a>
+            <a href="#" class="px-3 border-right text-light">Wishlist (0)</a>
         </div>
     </div>
 
     <!-- Primary Navigation -->
     <nav class="navbar navbar-expand-lg navbar-dark color-second-bg">
-        <a class="navbar-brand" href="#">Mobile Shopee</a>
+    <i class="fas fa-umbrella-beach fa-3x mt-1 tm-logo"></i>
+        <a class="navbar-brand" href="#">GADA ELECTRONICS</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -52,12 +52,6 @@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">Products <i class="fas fa-chevron-down"></i></a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Blog</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Category <i class="fas fa-chevron-down"></i></a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">Coming Soon</a>
