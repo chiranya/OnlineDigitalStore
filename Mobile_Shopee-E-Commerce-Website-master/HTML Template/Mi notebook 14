@@ -101,7 +101,6 @@
                                     <tr class="font-rale font-size-14">
                                         <td>M.R.P:</td>
                                         <td><strike>Rs. 40000.00</strike></td>
-
                                     </tr>
                                     <tr class="font-rale font-size-14">
                                         <td>Deal Price:</td>
@@ -148,7 +147,17 @@
                                 </div>
                              <!-- !order-details -->
 
-                             
+                             <div class="row">
+                                 <div class="col-6">
+                                        <!-- color -->
+                                            <div class="color my-3">
+                                              <div class="d-flex justify-content-between">
+                                                <h6 class="font-baloo">Color:</h6>
+                                                <div class="p-2 color-yellow-bg rounded-circle"><button class="btn font-size-14"></button></div>
+                                                <div class="p-2 color-primary-bg rounded-circle"><button class="btn font-size-14"></button></div>
+                                                <div class="p-2 color-second-bg rounded-circle"><button class="btn font-size-14"></button></div>
+                                              </div>
+                                            </div>
                                         <!-- !color -->
                                  </div>
                                  <div class="col-6">
@@ -176,9 +185,7 @@
                             <h6 class="font-rubik">Product Description</h6>
                             <hr>
                             <p class="font-rale font-size-14"></p>
-
                             <p class="font-rale font-size-14"><ul>Take beautiful photos and movies with background blur</ul>
-
                                
                                   <ul>Easily connect, shoot and share on the move</ul>
                                   
